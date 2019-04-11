@@ -1,0 +1,40 @@
+gBoost:
+
+https://link.springer.com/content/pdf/10.1007%2Fs10994-008-5089-z.pdf
+
+Frequent Subgraph Mining:
+
+http://data-mining.philippe-fournier-viger.com/introduction-frequent-subgraph-mining/
+
+Classification on Graphs:
+
+https://www.csc2.ncsu.edu/faculty/nfsamato/practical-graph-mining-with-R/slides/pdf/Classification.pdf
+
+R/Py Interface:
+
+http://heather.cs.ucdavis.edu/~matloff/rpy2.html
+
+Data Modelling:
+
+https://neo4j.com/blog/data-modeling-pitfalls/
+
+https://neo4j.com/developer/guide-data-modeling/
+
+Blogs:
+
+https://markhneedham.com/blog/2018/05/11/node2vec-tensorflow/
+
+https://markhneedham.com/blog/2018/05/19/interpreting-word2vec-glove-embeddings-sklearn-neo4j-graph-algorithms/
+
+https://markhneedham.com/blog/2018/05/11/exploring-node2vec-graph-embedding-algorithm/
+
+
+
+Datasets:
+
+http://snap.stanford.edu/data/index.html#communities
+
+https://www.analyticbridge.datasciencecentral.com/profiles/blogs/fraud-detection-in-retail-with-graph-analysis
+
+https://neo4j.com/graphgist/credit-card-fraud-detection
+
